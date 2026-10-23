@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+.env
+
+# Large map archives and binaries
+*.w3x
+*.w3m
+*.mpq
+
+# Extracted heavy assets
+*.mdx
+*.blp
+*.mp3
+*.wav
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
